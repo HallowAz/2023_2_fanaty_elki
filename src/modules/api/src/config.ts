@@ -9,7 +9,7 @@ export enum REQUEST_METHOD {
 
 export const apiConfig: ApiConfig = {
     //backend: "https://prinesy-poday.ru/api",
-    backend: "http://localhost:8080/api",
+    backend: "http://185.241.195.151:8080/api",
     api: {
         auth: {
             url: "/auth",
